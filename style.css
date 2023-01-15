@@ -1,0 +1,15 @@
+
+.hero-text {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30%;
+}
+
+.hero-text h1 {
+    font-size: 40px;
+
+}
+
+.hero-text p {
+    font-size: 20px;
+}
